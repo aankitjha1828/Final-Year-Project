@@ -23,13 +23,6 @@ This project simulates an online shopping platform where users can:
 
 ---
 
-## 📸 Screenshots
-
-> 💡 Add screenshots or a demo GIF here for better visibility  
-> Example:
-> ![Screenshot](screenshot.png)
-
----
 
 ## 🚀 Technologies Used
 
@@ -50,11 +43,11 @@ e-commerce-project/
 
  ── /css
 
-    ─ style.css # All styling
-  
+ ── style.css # All styling
+ 
  ── /js
  
-    ─ main.js # JS logic
+ ── main.js # JS logic
 
  ── /images # Product and UI images
 
